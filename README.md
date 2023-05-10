@@ -1,7 +1,8 @@
 # PNDM Prediction
 
 |<img src="Images/pndm.png" width=500/>|
-|:PNDM [^1]:| 
+|PNDM [^1]|
+|:---:|
 
 Permanent Neonatal Diabetes Mellitus (PNDM) is a type of diabetes that first appears within the first 6 months of life and persists throughout the lifespan. This form of diabetes is characterized by high blood sugar levels (hyperglycemia) resulting from a shortage of the hormone insulin. Insulin controls how much glucose (a type of sugar) is passed from the blood into cells for conversion to energy. Individuals with permanent neonatal diabetes mellitus experience slow growth before birth (intrauterine growth retardation). Affected infants have hyperglycemia and an excessive loss of fluids (dehydration) and are unable to gain weight and grow at the expected rate (failure to thrive) [^2].
 
